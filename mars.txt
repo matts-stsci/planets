@@ -4,3 +4,4 @@ Another line here.
 Test
 Bin Chen made a edit here.
 Matt made a change
+Bin made the second change 
